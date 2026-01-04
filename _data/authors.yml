@@ -1,18 +1,8 @@
 # Authors
+maryam:
+  name   : "Maryam Hayati"
+  bio    : "AI & Computational Biology | Infectious Disease Modeling"
+  avatar : "/images/profile.png"
+  github : HayatiMar
+  scholar: https://scholar.google.com
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "profile.png"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
