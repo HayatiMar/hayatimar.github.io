@@ -13,7 +13,7 @@ remote_theme: "academicpages/academicpages.github.io"
 # Site Author (Sidebar) - This is what creates your sidebar
 author:
   name             : "Maryam Hayati"
-  avatar           : "images/profile.png"
+  avatar           : "https://hayatimar.github.io/images/profile.png"
   bio              : "AI & Computational Biology | Infectious Disease Modeling"
   location         : "Your City"
   email            : "maryam.hayati@gmail.com"
